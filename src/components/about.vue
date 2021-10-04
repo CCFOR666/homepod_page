@@ -20,7 +20,7 @@
         <h3>
           <i :class="'fa '+profile.characteristic[1].icon" aria-hidden="true"
              style="margin-right: 5px;"></i>{{ profile.characteristic[1].title }}
-          <br/>中 粤 日 英 德
+          <br/>a b 日 英 德
         </h3>
       </div>
       <div class="sub-item" :style="'color:#fff; background: '+profile.characteristic[2].color">
